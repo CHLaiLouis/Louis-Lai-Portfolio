@@ -1,0 +1,82 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 10px;
+    font-size: larger;
+  }
+  
+  .logo img {
+    height: 80px;
+  }
+  
+  .navlinks {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navlinks li {
+    display: inline-block;
+  }
+  
+  .navlinks li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+ .herosection{
+  margin: 120px 60px;
+  display: flex;
+  align-items: center;
+  font-size: xx-large;
+ }
+
+  .heroImg{
+    height: 464px;
+    margin-left: 40px;
+  }
+
+  .myskillsection{
+    margin: 120px auto;
+    width: 50%;
+    font-size: xx-large;
+  }
+
+  .navlinks_aboutme{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  }
+
+  footer{
+    background-color: #DFD7BF;
+    padding-top: 20px;
+    margin-top: 80px;
+  }
+
+  .letsconnect{
+    font-size: x-large;
+    margin-left: 40px;
+  }
+
+  footer ul{
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+    width: 360px;
+    margin-bottom: 20px;
+  }
+
+  footer ul li{
+    list-style: none;
+    padding-right: 40px;
+  }
+
+  footer ul li img{
+    height: 40px
+  }
